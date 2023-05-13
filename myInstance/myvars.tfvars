@@ -1,0 +1,2 @@
+myaccess_key="AKIAR5TMHQ5UCEGYKPU4"
+mysecret_key="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"
